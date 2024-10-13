@@ -8,7 +8,7 @@ interface TimeSetterProps {
     interval: number;
     type: "break" | "session";
 }
-const TimeSetter: React.FC<TimerSetterProps> = ({
+const TimeSetter: React.FC<TimeSetterProps> = ({
     time, 
     setTime, 
     min, 
