@@ -38,3 +38,7 @@ span {
   text-align: center;
   margin-top: 20px;
 }
+
+@media(max-width: 600px){
+  button{margin: 14px;}
+}
