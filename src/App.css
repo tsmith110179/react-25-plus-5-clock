@@ -40,5 +40,6 @@ span {
 }
 
 @media(max-width: 600px){
+  h4{font-size: 20px;}
   button{margin: 14px;}
 }
